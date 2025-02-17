@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "DAV"
-include(":app")
+include(":app") // Add other modules if required
